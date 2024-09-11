@@ -5,14 +5,10 @@
 ## 访问网页
 
 http://120.26.139.176/
-输入你的姓名
-![image](https://github.com/1nyg/SeemyN/assets/127033061/c26943f4-edce-4c98-8fac-f9819e08db30)
-
-乱输入会被警告
-![image](https://github.com/1nyg/SeemyN/assets/127033061/d88c2713-9343-457a-95a0-415946288640)
-
-
-每天只能一次哦
-![image](https://github.com/1nyg/SeemyN/assets/127033061/afecd931-af78-49dd-9cd2-af756dab16bc)
-
+![image](https://github.com/user-attachments/assets/f37ba4d8-f88b-41be-b0ea-3cb7decb340d)
+根据本人学号进行创建
+![Uploading image.png…]()
+选择畅动力专区，根据所在校区选择对应的跑步场地。
+成功后会显示姓名和学号，如果有误可以在 帖子下留言。
+每日清晨八点会清空昨日的使用记录，也是为了让上传时间在跑步时间之后，避免bug。
 出现错误请联系开发者
